@@ -1,3 +1,4 @@
+
 def ma_hoa(text, khoa):
     ket_qua = ""
     for ky_tu in text:
